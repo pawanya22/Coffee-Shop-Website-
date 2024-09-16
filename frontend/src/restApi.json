@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "We source only the finest ingredients, ensuring every dish is as fresh and flavorful as possible." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Our secret lies in the rich, authentic recipes passed down through generations, perfected to delight every palate." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Enjoy our delicious food in the comfort of your home with our quick and reliable delivery service." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./IcedMocha.webp",
+                "title": "Iced Cafe Mocha",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./OreoShake.jpg",
+                "title": "Oreo Shake",
+                "category": "Breakfast"
+            },
+            {
+                "id": 3,
+                "image": "./Americano.jpg",
+                "title": "Iced Americano",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./Cappuccino.jpg",
+                "title": "Cappuccino",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./hotchocolate.jpg",
+                "title": "Hot Chocolate",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./mango smoothie.jpg",
+                "title": "Mango Smoothie",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./matcha latte.jpg",
+                "title": "Matcha Latte",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./Milo Milk.jpg",
+                "title": "Milo Shake",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Coffee Shops"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Coffee Types"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
